@@ -3252,6 +3252,8 @@
           <stringProp name="filename"></stringProp>
         </ResultCollector>
         <hashTree/>
+        <Summariser guiclass="SummariserGui" testclass="Summariser" testname="Generate Summary Results" enabled="true"/>
+        <hashTree/>
         <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Don&apos;t" enabled="false"/>
         <hashTree>
           <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="--TwilioVerificationCodeApiService--" enabled="false"/>
